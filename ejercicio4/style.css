@@ -1,0 +1,60 @@
+.container1, .container2 {
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor{
+    margin-top: 200px;
+}
+
+.bandera1{
+    margin: 20px;
+    padding-top: 10px;
+    padding-right: 35px;
+    padding-left: 35px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}
+.bandera2{
+    margin: 20px;
+    padding-top: 10px;
+    padding-right: 45px;
+    padding-left: 45px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}
+
+.bandera3{
+    margin: 20px;
+    padding: 10px 20px 10px 20px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}
+
+
+.bandera4{
+    margin: 20px;
+    padding: 10px 40px 10px 40px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}
+
+.bandera5{
+    margin: 20px;
+    padding: 10px 40px 10px 40px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}
+
+.bandera6 {
+    margin: 20px;
+    padding: 10px 60px 10px 60px;
+    background-color: #fd79a8;
+    font-family: Cousine;
+    color: white;
+}

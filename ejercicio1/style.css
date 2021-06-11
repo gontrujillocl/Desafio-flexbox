@@ -1,0 +1,14 @@
+.boton{
+    background-color: aquamarine;
+    color: white;
+    font-family: Cousine;
+    margin: 30px;
+    padding: 20px 45px 20px 45px;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}

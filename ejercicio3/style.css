@@ -1,0 +1,30 @@
+.container{
+    border: 1px solid #636e72;
+    display: flex;
+    flex-direction: row;
+    padding: 7px 0px 7px 0px;
+    margin: 250px 130px 0px 130px;
+}
+
+.list_menu{
+    width: 100%;
+    text-align: right;
+    margin-right: 40px;
+}
+.menu{
+    font-family: Cousine;
+    list-style: none;
+    font-weight: 40px;
+}
+
+.logo-micro{
+    width: 40px;
+    padding-top: 8px;
+    margin-left: 40px;
+}
+
+.item{
+    display: inline;
+    padding-bottom: 30px;
+    padding-right: 30px;
+}
